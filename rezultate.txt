@@ -1,0 +1,34 @@
+Solution for test no.1 is: 5623
+Solution for test no.2 is: 5624
+Solution for test no.3 is: 5632
+Solution for test no.4 is: 5620
+Solution for test no.5 is: 5631
+Solution for test no.6 is: 5633
+Solution for test no.7 is: 5638
+Solution for test no.8 is: 5632
+Solution for test no.9 is: 5623
+Solution for test no.10 is: 5628
+Solution for test no.11 is: 5623
+Solution for test no.12 is: 5633
+Solution for test no.13 is: 5631
+Solution for test no.14 is: 5621
+Solution for test no.15 is: 5625
+Solution for test no.16 is: 5624
+Solution for test no.17 is: 5624
+Solution for test no.18 is: 5625
+Solution for test no.19 is: 5629
+Solution for test no.20 is: 5622
+Solution for test no.21 is: 5633
+Solution for test no.22 is: 5627
+Solution for test no.23 is: 5628
+Solution for test no.24 is: 5631
+Solution for test no.25 is: 5628
+Solution for test no.26 is: 5624
+Solution for test no.27 is: 5621
+Solution for test no.28 is: 5622
+Solution for test no.29 is: 5623
+Solution for test no.30 is: 5632
+Avg: 5627
+Min: 5620
+Max: 5638
+stDev: 4.61158
