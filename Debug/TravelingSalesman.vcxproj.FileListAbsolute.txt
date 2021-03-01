@@ -1,0 +1,2 @@
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Debug\TravelingSalesman.exe
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Debug\TravelingSalesman.pdb

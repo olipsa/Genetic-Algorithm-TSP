@@ -1,0 +1,54 @@
+﻿  TravelingSalesman.cpp
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(23,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(25,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(28,18): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(40,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(43,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(55,19): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(60,24): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(71,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(76,21): warning C4018: '<=': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(84,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(87,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(102,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(103,26): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(131,22): warning C4244: '=': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(135,37): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(143,24): warning C4244: '=': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(166,31): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(180,42): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(181,20): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(183,42): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(184,21): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(193,22): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(194,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(197,22): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(198,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(216,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(248,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(284,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(286,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(314,1): warning C4305: '=': truncation from '__int64' to 'unsigned int'
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(314,13): warning C4309: '=': truncation of constant value
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(315,1): warning C4305: '=': truncation from '__int64' to 'unsigned int'
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(315,14): warning C4309: '=': truncation of constant value
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(338,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(341,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(344,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(345,1): warning C4305: 'initializing': truncation from '__int64' to 'int'
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(345,13): warning C4309: 'initializing': truncation of constant value
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(345,39): warning C4309: 'initializing': truncation of constant value
+D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Header.h(356,16): warning C4018: '<': signed/unsigned mismatch
+  TravelingSalesman.vcxproj -> D:\Documents\Facultate\An2Sem1\Genetical Algorithms\Teme\Tema3\TravelingSalesman\Debug\TravelingSalesman.exe
